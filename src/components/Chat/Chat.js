@@ -10,7 +10,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'https://livelingo.onrender.com/';
+const ENDPOINT = 'https://livelingo.onrender.com';
 
 let socket;
 
